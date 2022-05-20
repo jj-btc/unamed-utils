@@ -1,0 +1,5 @@
+requests=~2.27.1
+setuptools~=60.2.0
+requests~=2.27.1
+hexbytes~=0.2.2
+web3~=5.29.1
