@@ -7,7 +7,7 @@ with open("requirements.txt") as f:
     requireds = f.read().splitlines()
 
 setup(
-    name='eth_utils',
+    name='unamed_utils',
     version='0.1.0',
     description='Some ETH utils',
     long_description="A longer description of some ETH utils",

@@ -1,4 +1,4 @@
-from eth_utils.abi import fetch_abi
+from unamed_utils.abi import fetch_abi
 import argparse
 
 parser = argparse.ArgumentParser()
